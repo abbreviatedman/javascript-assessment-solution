@@ -12,7 +12,7 @@ const {
 } = require("../");
 
 const networks = require("../bike-networks");
-const alternativeNetworks = require("./fixtures/alternative-networks");
+const alternativeNetworks = require("../alternative-networks");
 
 describe("getAllBikeNetworkNames()", () => {
   test("should return an an array of all bike network names", () => {

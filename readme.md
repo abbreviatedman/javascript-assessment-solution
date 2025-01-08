@@ -70,7 +70,7 @@ This repository contains the following files that you may need to edit or want t
 - `bike-networks.js`: This is the data that you can expect to be inserted into your function.
 - `index.js`: This is where you will write your code. **This is the only file you should need to edit.** This file contains a variable, `exampleNetworks`, that contains all of the networks from the `bike-networks.js` file. You may use this variable if you'd like to run the `index.js` file from your command line.
 - `__tests__/index.test.js`: All of the tests for the functions.
-- `__tests__/fixtures/alternate-networks.js`: Another array of networks that the tests will make use of, in addition to those networks from the `bike-networks.js` file.
+- `alternate-networks.js`: Another array of networks that the tests will make use of, in addition to those networks from the `bike-networks.js` file.
 
 #### Function Descriptions
 
